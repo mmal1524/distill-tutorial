@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nMy name is Mahima Malhotra and I am a freshman studying Computer Science at Purdue University.\r\nAbout the Project\r\nMy project Car Weight relationship to Fuel Efficiency explores how the weight of a car may relate to how fuel efficient it is.\r\nGoals\r\nShow how heavier weight relates to lower fuel efficiency\r\nExplore the implications of increase production of lighter cars\r\nCorrelation vs causation\r\n\r\n“This is data science”\r\nPreceptor\r\n\r\nKane’s Free High School Data Science Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T13:57:34-05:00"
+      "last_modified": "2021-06-21T14:19:05-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,27 @@
       "description": "This is where I will describe my final project",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T13:57:35-05:00"
+      "last_modified": "2021-06-21T14:19:07-05:00"
+    },
+    {
+      "path": "source_a.html",
+      "author": [],
+      "contents": "\r\nsou— title: “Source A” description: | Detailed notes for Source A author: - name: Mahima Malhotra date: “2021-06-21” output: distill::distill_article —\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T14:19:08-05:00"
+    },
+    {
+      "path": "source_b.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B\n",
+      "author": [
+        {
+          "name": "Mahima Malhotra",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T14:19:08-05:00"
     }
   ],
   "collections": []
