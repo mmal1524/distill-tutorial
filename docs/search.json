@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T20:17:37-05:00"
+      "contents": "\r\nAbout Me\r\nMy name is Mahima Malhotra and I am a freshman studying Computer Science at Purdue University.\r\nAbout the Project\r\nMy project Car Weight relationship to Fuel Efficiency explores how the weight of a car may relate to how fuel efficient it is.\r\nGoals\r\nShow how heavier weight relates to lower fuel efficiency\r\nExplore the implications of increase production of lighter cars\r\nCorrelation vs causation\r\n\r\n“This is data science”\r\nPreceptor\r\n\r\nKane’s Free High School Data Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T13:57:34-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T20:17:41-05:00"
+      "last_modified": "2021-06-21T13:57:35-05:00"
     }
   ],
   "collections": []

@@ -8,3 +8,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name is **Mahima Malhotra** and I am a freshman studying Computer Science at Purdue University.
+
+## About the Project
+My project *Car Weight relationship to Fuel Efficiency* explores how the weight of a car may relate to how fuel efficient it is.
+
+### Goals
+* Show how heavier weight relates to lower fuel efficiency
+* Explore the implications of increase production of lighter cars
+*   + Correlation vs causation
+
+"This is data science"  
+~ Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
